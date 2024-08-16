@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://kit.fontawesome.com/bebaa3aead.js" crossorigin="anonymous"></script>
     <title>CineTime</title>
@@ -16,7 +16,7 @@
             
         <nav class="menu">
             <div class="logo">
-                <img src="img/logo-no-background.png" alt="">
+                <img src="assets/img/logo-no-background.png" alt="">
             </div>
             <ul class= "ul">
                 <a href="index.php">HOME</a> 
@@ -100,7 +100,7 @@ frmPesquisa.onsubmit = function(ev) {
 
 </script>
       
-<script src="script.js"></script>
+<script src="assets/script.js"></script>
 </body>
 </html>
 
